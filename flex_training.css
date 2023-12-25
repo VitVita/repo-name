@@ -1,0 +1,12 @@
+/* header */
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.header-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-grow: 1;
+}
